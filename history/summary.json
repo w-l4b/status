@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 581,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.pop-radio-word.website",
     "slug": "pop",
     "status": "down",
-    "uptime": "7.03%",
-    "uptimeDay": "7.03%",
-    "uptimeWeek": "7.03%",
-    "uptimeMonth": "7.03%",
-    "uptimeYear": "7.03%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 11
     }
   }
 ]
